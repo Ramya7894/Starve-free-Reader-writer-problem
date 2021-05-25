@@ -17,7 +17,7 @@ So we need to find a starvation free reader writer problem solution.
 
 
 The detailed description and solution is in documentation. </br>
-The code is written in c and present in the file starvefree.c </br>
+
 ## Implementation : ##
 ```
 Variables used for implementation are 
